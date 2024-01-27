@@ -19,6 +19,6 @@ Destini Flutter is inspired by the classic "choose your own adventure" concept. 
 
 To run Destini Flutter locally or contribute to the project, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/destini-flutter.git`
+1. Clone this repository to your local machine using `git clone https://github.com/Daniel-techgit/destini-flutter.git`
 2. Open the project in your preferred Flutter development environment.
 3. Run the application on an emulator or physical device.
